@@ -2,5 +2,5 @@ projectKey=mineGame2
 serverUrl=http://localhost:9000
 serverVersion=9.9.0.65466
 dashboardUrl=http://localhost:9000/dashboard?id=mineGame2
-ceTaskId=AYgh1G7YxeeMjMZ_bLwf
-ceTaskUrl=http://localhost:9000/api/ce/task?id=AYgh1G7YxeeMjMZ_bLwf
+ceTaskId=AYgjoPs9xeeMjMZ_bLxB
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AYgjoPs9xeeMjMZ_bLxB

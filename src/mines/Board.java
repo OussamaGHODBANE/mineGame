@@ -32,14 +32,14 @@ public class Board extends JPanel {
     private int[] field;
     private boolean inGame;
     private int mines_left;
-    private Image[] img;
+    private transient Image[] img;
     private int mines = 40;
     private int rows = 16;
     private int cols = 16;
     private int all_cells;
     private JLabel statusbar;
 
-    private Random random = new SecureRandom();;
+    private Random random = new SecureRandom();
 
     public Board(JLabel statusbar) {
 
